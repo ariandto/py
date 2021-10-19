@@ -1,7 +1,10 @@
 <p align="center">
+<b>Dasar Programming Pyhton<b>
+</p>
+
+<p align="center">
 <img src="https://github.com/ariandto/py/blob/main/screen/v2.jpg"/>
 </p>
-<b>Dasar Programming Phyton<b>
 
 Bukalah Visual Code atau Idle Python yang sudah anda Download dan Install<p>
 
@@ -24,10 +27,9 @@ Nama saya Ari saya dari kelas 9A dan umur saya 17 tahun .
 <p>
 
 - <b>Keterangan<b><p>
-- name adalah variabel, gunakanlah + untuk memanggil variabel<p>
+<p align="left">name adalah variabel, gunakanlah + untuk memanggil variabel</p>
 
-
-- Berikut contoh kode program biodata disertai kalimat<p>
+<b>Berikut contoh kode program biodata disertai kalimat<b><p>
 ```
 ##Input Data##
 name = "Budi Ariyanto."
