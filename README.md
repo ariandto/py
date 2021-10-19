@@ -12,11 +12,10 @@ umur = "17 tahun"
 
 print ("Nama saya "+name,"saya dari kelas "+kelas,"dan umur saya "+umur,".")
 ```
-<p>
+
 ```
 Nama saya Ari saya dari kelas 9A dan umur saya 17 tahun .
 ```
-<p>
 
 <p>
 
