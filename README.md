@@ -1,4 +1,7 @@
-- Dasar Programming Phyton<p>
+[pic1](screen/v1.png)
+
+
+Dasar Programming Phyton<p>
 Bukalah Visual Code atau Idle Python yang sudah anda Download dan Install
 
 Ketikkan fungsi dan string sebagai berikut<p>
