@@ -1,6 +1,6 @@
 <p align="center">
-<b>Dasar Programming Pyhton<b>
-</p>
+<h2><b>Dasar Programming Pyhton<b>
+</p></h>
 
 <p align="center">
 <img src="https://github.com/ariandto/py/blob/main/screen/v2.jpg"/>
