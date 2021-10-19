@@ -1,7 +1,7 @@
-[pic1](screen/v1.png)
+[pic1](screen/v2.jpg)
 
 
-Dasar Programming Phyton<p>
+<b>Dasar Programming Phyton<b><p>
 Bukalah Visual Code atau Idle Python yang sudah anda Download dan Install
 
 Ketikkan fungsi dan string sebagai berikut<p>
@@ -22,11 +22,11 @@ Nama saya Ari saya dari kelas 9A dan umur saya 17 tahun .
 
 <p>
 
-- Keterangan<p>
-- name adalah variable, gunakanlah + untuk memanggil variable<p>
+- <b>Keterangan<b><p>
+- name adalah variabel, gunakanlah + untuk memanggil variabel<p>
 
 
-- Berikut contoh kode program biodata disertai kalimat
+- Berikut contoh kode program biodata disertai kalimat<p>
 ```
 ##Input Data##
 name = "Budi Ariyanto."
