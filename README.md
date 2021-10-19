@@ -1,8 +1,9 @@
-[pic1](screen/v2.jpg)
+<p align="center">
+<img src="https://github.com/ariandto/py/blob/main/screen/v2.jpg"/>
+</p>
+<b>Dasar Programming Phyton<b>
 
-
-<b>Dasar Programming Phyton<b><p>
-Bukalah Visual Code atau Idle Python yang sudah anda Download dan Install
+Bukalah Visual Code atau Idle Python yang sudah anda Download dan Install<p>
 
 Ketikkan fungsi dan string sebagai berikut<p>
 
