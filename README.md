@@ -12,7 +12,7 @@ umur = "17 tahun"
 
 print ("Nama saya "+name,"saya dari kelas "+kelas,"dan umur saya "+umur,".")
 ```
-
+Maka hasilnya akan seperti ini<p>
 ```
 Nama saya Ari saya dari kelas 9A dan umur saya 17 tahun .
 ```
@@ -45,11 +45,10 @@ print ()
 print ("Thank you.")
 ##Output done##
 ```
-<p>
+Maka hasilnya akan seperti ini<p>
 ```Assalammu'alaikum..
 
 Let me introduce my self. My name is Budi Ariyanto. But you can call me Ari or Budi. My NIM is 312110159. I was born in Kebumen and I am 27 years old. I am very glad if you want to invite my house in Penjalin Village at Jababeka II Cikarang. So don't forget to call me before with the number 0895340710827 (WhatsApp Only)
 
 Thank you.
-<p>
 ```
