@@ -4,7 +4,7 @@ Bukalah Visual Code atau Idle Python yang sudah anda Download dan Install
 Ketikkan fungsi dan string sebagai berikut<p>
 
 ```
-##Inpu##
+##Input##
 name = "Ari"
 kelas = "9A"
 umur = "17 tahun"
@@ -13,12 +13,18 @@ umur = "17 tahun"
 print ("Nama saya "+name,"saya dari kelas "+kelas,"dan umur saya "+umur,".")
 ```
 <p>
+```
+Nama saya Ari saya dari kelas 9A dan umur saya 17 tahun .
+```
+<p>
+
+<p>
 
 - Keterangan<p>
-name adalah variable, gunakanlah + untuk memanggil variable<p>
+- name adalah variable, gunakanlah + untuk memanggil variable<p>
 
 
-- Berikut contoh kode program biodata diserta kalimat
+- Berikut contoh kode program biodata disertai kalimat
 ```
 ##Input Data##
 name = "Budi Ariyanto."
@@ -39,4 +45,12 @@ print ("Let me introduce my self. My name is " +name,"But you can call me " +nic
 print ()
 print ("Thank you.")
 ##Output done##
+```
+<p>
+```Assalammu'alaikum..
+
+Let me introduce my self. My name is Budi Ariyanto. But you can call me Ari or Budi. My NIM is 312110159. I was born in Kebumen and I am 27 years old. I am very glad if you want to invite my house in Penjalin Village at Jababeka II Cikarang. So don't forget to call me before with the number 0895340710827 (WhatsApp Only)
+
+Thank you.
+<p>
 ```
